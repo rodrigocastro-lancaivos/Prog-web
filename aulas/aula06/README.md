@@ -12,3 +12,4 @@ e exibe na página uma msg de boas vindas usando esse valor
 5. Qualquer outra página que não tenha a rota indicada é direcionada para
 página de erro 404 com link para o index (pesquise como usar
 res.status() )
+
