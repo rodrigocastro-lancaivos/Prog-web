@@ -1,0 +1,15 @@
+{
+  "name": "aula05",
+  "version": "1.0.0",
+  "description": "A atividade 1 será ignorada. Ela serve para ter um contato inicial\r A atividade 2 será feita em outro momento por ser simples.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
